@@ -1,0 +1,10 @@
+C:\Andres\ClassRoomApp\bin\Debug\ClassRoomApp.exe.config
+C:\Andres\ClassRoomApp\bin\Debug\ClassRoomApp.exe
+C:\Andres\ClassRoomApp\bin\Debug\ClassRoomApp.pdb
+C:\Andres\ClassRoomApp\obj\Debug\ClassRoomApp.csprojAssemblyReference.cache
+C:\Andres\ClassRoomApp\obj\Debug\ClassRoomApp.Properties.Resources.resources
+C:\Andres\ClassRoomApp\obj\Debug\ClassRoomApp.csproj.GenerateResource.cache
+C:\Andres\ClassRoomApp\obj\Debug\ClassRoomApp.csproj.CoreCompileInputs.cache
+C:\Andres\ClassRoomApp\obj\Debug\ClassRoomApp.exe
+C:\Andres\ClassRoomApp\obj\Debug\ClassRoomApp.pdb
+C:\Andres\ClassRoomApp\obj\Debug\ClassRoomApp.Form1.resources
